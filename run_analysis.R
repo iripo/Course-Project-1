@@ -2,6 +2,9 @@
 # run_analysis.R
 
 #Install required packages
+install.packages("data.table")
+install.packages("dplyr")
+install.packages("reshape2")
 library(data.table); library(dplyr); library(reshape2)
 
 #read all the needed datasets 
