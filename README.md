@@ -2,9 +2,10 @@
 Getting and Cleaning Data Course Project
 
 Script in this repo is Run-analysis.R.
-It is R script. The packages used in it are data.table, dplyr, reshape2.
 
-And the script do the following:
+The packages used in it are data.table, dplyr, reshape2.
+
+And the script does the following:
 
 1) Read and unzip the file "getdata_projectfiles_UCI HAR Dataset.zip" into the "data" sub directory.
 
@@ -31,3 +32,7 @@ And the script do the following:
 
 9) Save the TidyData into "TidyData.txt".
 
+
+##The data for this task here:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
