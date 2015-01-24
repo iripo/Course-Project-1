@@ -26,7 +26,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##Transformation:
 
-1) Read and unzip the file "getdata_projectfiles_UCI HAR Dataset.zip" into the "data" sub directory.
+1) Read and unzip the file "getdata_projectfiles_UCI HAR Dataset.zip" into the "Data_anal" sub directory.
 2) Read following files into the Data Tables:
         subject_test.txt
         subject_train.txt
