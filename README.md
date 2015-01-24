@@ -9,13 +9,21 @@ And the script does the following:
 1) Read and unzip the file "getdata_projectfiles_UCI HAR Dataset.zip" into the "Data_anal" sub directory.
 
 2) Read following files into the Data Tables:
+        
         subject_test.txt
+        
         subject_train.txt
+        
         X_test.txt
+        
         X_train.txt
+        
         Y_test.txt
+        
         Y_train.txt
+        
         features.txt
+        
         activity_labels.txt
 
 
