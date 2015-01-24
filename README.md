@@ -1,5 +1,4 @@
-# Course-Project-1
-Getting and Cleaning Data Course Project
+# Run-analysis.R
 
 Script in this repo is Run-analysis.R.
 
