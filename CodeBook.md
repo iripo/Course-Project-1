@@ -36,14 +36,18 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
  [2] "Activity"                            
  activity name
  1 WALKING
+ 
  2 WALKING_UPSTAIRS
+ 
  3 WALKING_DOWNSTAIRS
+ 
  4 SITTING
+ 
  5 STANDING
+ 
  6 LAYING
  
- 
- ###All variables below are numeric. And contain  the average for each activity and each subject:
+  #All variables below are numeric. And contain  the average for each activity and each subject:
  
  [3] "tBodyAcc.mean...X"                   
  [4] "tBodyAcc.mean...Y"                   
