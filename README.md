@@ -6,7 +6,7 @@ The packages used in it are data.table, dplyr, reshape2.
 
 And the script does the following:
 
-1) Read and unzip the file "getdata_projectfiles_UCI HAR Dataset.zip" into the "data" sub directory.
+1) Read and unzip the file "getdata_projectfiles_UCI HAR Dataset.zip" into the "Data_anal" sub directory.
 
 2) Read following files into the Data Tables:
         subject_test.txt
