@@ -43,8 +43,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
  6 LAYING
  
  
- All variables below are numeric.
- And contain  the average for each activity and each subject. 
+ ###All variables below are numeric. And contain  the average for each activity and each subject:
+ 
  [3] "tBodyAcc.mean...X"                   
  [4] "tBodyAcc.mean...Y"                   
  [5] "tBodyAcc.mean...Z"                   
