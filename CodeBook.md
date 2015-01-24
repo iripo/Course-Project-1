@@ -28,13 +28,21 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 1) Read and unzip the file "getdata_projectfiles_UCI HAR Dataset.zip" into the "Data_anal" sub directory.
 2) Read following files into the Data Tables:
+       
         subject_test.txt
+       
         subject_train.txt
+       
         X_test.txt
+       
         X_train.txt
+       
         Y_test.txt
+       
         Y_train.txt
+       
         features.txt
+       
         activity_labels.txt
 
 4) Rename variables in train and test sets according to the features-file 
