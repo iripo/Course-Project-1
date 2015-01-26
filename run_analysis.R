@@ -25,8 +25,10 @@ test <- rename(cbind(test,sbj1), Subject = V1)
 
 trn <- read.table(file="H:/coursR/Data_anal/UCI HAR Dataset/train/X_train.txt",col.names=col)
 train <- rename(cbind(trn,act2), Activity = V1) 
-train <- rename(cbind(trn,sbj2), Subject = V1)
-
+#here was a mistake, but i found it too late :(
+#train <- rename(cbind(trn,sbj2), Subject = V1)
+#below correct:
+train <- rename(cbind(train,sbj2), Subject = V1)
 #Merge train & test sets. Create new dataset according to this:
 #Extracts only the measurements on the mean and standard deviation
 #for each measurement.
